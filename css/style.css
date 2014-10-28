@@ -1,0 +1,21 @@
+body {
+	font-family... use link to google for CSS that you put in the HTML file under links
+	color: add hex colors;
+	font-weight: set the default weight here and use the other size at a lower level
+}
+
+.text-muted {
+	color: color of lighter grey;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 10px;
+}
